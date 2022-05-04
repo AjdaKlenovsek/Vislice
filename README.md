@@ -11,7 +11,10 @@ Srečno
 
 Ta stavek sem naredila neposredno na githubu.
 
-## Pravi avtorji
+## Avtorji
 
-- Đoni
-- juhunebruhu.
+Avtorji so:
+- blabla
+- juhubruhu
+- madonca
+
