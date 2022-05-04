@@ -10,3 +10,8 @@ Izgoni se smrti.
 Srečno
 
 Ta stavek sem naredila neposredno na githubu.
+
+## Pravi avtorji
+
+- Đoni
+- juhunebruhu.
