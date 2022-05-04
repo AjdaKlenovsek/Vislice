@@ -10,3 +10,11 @@ Izgoni se smrti.
 Srečno
 
 Ta stavek sem naredila neposredno na githubu.
+
+## Avtorji
+
+Avtorji so:
+- blabla
+- juhubruhu
+- madonca
+
